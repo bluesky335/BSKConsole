@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BSKConsole_Example' do
+  pod 'BSKConsole', :path => '../'
+
+  target 'BSKConsole_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
