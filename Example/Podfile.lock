@@ -1,0 +1,16 @@
+PODS:
+  - BSKConsole (0.1.0)
+
+DEPENDENCIES:
+  - BSKConsole (from `../`)
+
+EXTERNAL SOURCES:
+  BSKConsole:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BSKConsole: ed3da36a6aecadb19bc56d922b3f50e2025670ec
+
+PODFILE CHECKSUM: 38056623c56173a5ebd1361bb043f841bfb884d1
+
+COCOAPODS: 1.6.0.beta.2
